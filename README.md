@@ -4,7 +4,7 @@
 
 ## Description
 
-Android (Kotlin) application for remotely econtroling the mobile robot.
+Android (Kotlin) application for remotely controling the mobile robot.
 
 ## Features:
 
